@@ -1,5 +1,5 @@
 # pattern
-pattern assignment given by sir telusko
+pattern assignment given by navin sir (telusko)
 
 ## pattern 1
 
